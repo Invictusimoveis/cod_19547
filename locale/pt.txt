@@ -1,0 +1,55 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_B31E7BC8_AF43_136E_41BF_E6DBA4D4B2E3.label = Banheiro Suite 2
+panorama_B5BB57FC_AF43_1326_41E5_4E8C0FCDD910.label = Corredor
+panorama_B5BB1865_AF43_FD26_41DC_5DB999475E33.label = Cozinha
+panorama_B5BBF983_AF43_1FE2_41AF_996FFB07F009.label = Entrada
+panorama_B5BB9BDF_AF43_3362_41E1_9E77C6651281.label = Lavabo
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_5.label = Lavabo
+panorama_B5BA14AE_AF42_F525_41E4_7F98E3E847BE.label = Sacada
+panorama_B5BA296F_AF43_7F23_41DF_6BD2F181E66A.label = Sacada Suíte 2
+panorama_B5BA1B67_AF43_1323_41B1_C009BA936910.label = Sacada suite
+panorama_B5BBF2D7_AF43_2D63_41CE_D36900BD3589.label = Sala
+panorama_B5BBF647_AF45_3563_41DF_8F06312B60D7.label = Suite
+panorama_B5BA4777_AF43_1323_41A7_D23E10A040E3.label = Suite 2
+panorama_B5BBE600_AF45_14DD_41AC_080F3E9691D8.label = Suite banheiro
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_0.label = banheiro quarto 2
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_1.label = banheiro2
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_2.label = corredor
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_3.label = cozinha
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_4.label = entrada
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_6.label = quarto
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_7.label = sacada quarto
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_8.label = sacada suite
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_9.label = sala
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_10.label = sala-sacada
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_12.label = suite
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138_11.label = suite banheiro
+album_AAF6A1F1_B2DB_268A_41B4_C6F9BC1EB138.label = Álbum de Fotos banheiro quarto 2
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Apartamento - Bairro Jardim - Cod 19547
+
+## VR Menu
+
+### Text
+MenuItem_A2B5EEF3_B3FE_730D_41DA_CC607B9B9A33.label = Banheiro Suite 2
+MenuItem_A2B4BEF3_B3FE_730D_41C7_5153944B4FAE.label = Corredor
+MenuItem_A2B40EF3_B3FE_730D_41C5_49C4A50A8D8E.label = Cozinha
+MenuItem_A2B5DEF3_B3FE_730D_41E0_FA969C93140D.label = Entrada
+MenuItem_A2B41EF3_B3FE_730D_41E1_3929E7103C53.label = Lavabo
+Menu_A0D38648_B2EB_2D9A_41E4_732F0A46DB09.label = Media
+MenuItem_A2B4AEF3_B3FE_730D_41E0_F5EA29A756EF.label = Sacada
+MenuItem_A2B5FEF3_B3FE_730D_4195_2712994AD4AA.label = Sacada Suíte 2
+MenuItem_A2B42EF3_B3FE_730D_41E0_513519DE6EE0.label = Sacada suite
+MenuItem_A2B46EF3_B3FE_730D_41B2_BA8AB02C374E.label = Sala
+MenuItem_A2B43EF3_B3FE_730D_41E3_3AFB811EC37D.label = Suite
+MenuItem_A2B44EF3_B3FE_730D_41CF_D01480AFDEE8.label = Suite 2
+MenuItem_A2B45EF3_B3FE_730D_41E1_84DC87B088FA.label = Suite banheiro
